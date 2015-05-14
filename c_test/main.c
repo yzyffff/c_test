@@ -8,8 +8,9 @@
 
 #include <stdio.h>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("Hello, World!\n");
+int main(){
+    
+    printf("1");
+    
     return 0;
 }
